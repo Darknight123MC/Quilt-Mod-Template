@@ -19,7 +19,6 @@
 			"icon": "assets/modid/icon.png",
 			"license": "GPL-3.0-or-later"
 		},
-		"provides": {},
 		"intermediate_mappings": "net.fabricmc:intermediary",
 		"entrypoints": {},
 		"depends": [
